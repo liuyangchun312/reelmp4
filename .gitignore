@@ -1,0 +1,8 @@
+node_modules/
+frames/
+stills/
+reel.mp4
+audio.wav
+# commercial Windows fonts, copy locally (see README)
+fonts/kai.ttf
+fonts/bahn.ttf
